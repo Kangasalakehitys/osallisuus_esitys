@@ -1,0 +1,2 @@
+# osallisuus_esitys
+Osallisuussuunnitelman revealjs esitys
